@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Karan
-- 👀 I’m interested in technology.
-- 🌱 I’m currently a student at University Of Waterloo studying Computer Engineering ...
+- 🌱 I’m currently a student at University Of Waterloo studying Computer Engineering.
+
